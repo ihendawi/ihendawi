@@ -10,7 +10,7 @@ Developer with a huge interest in Data Science, Machine Learning, Big Data Analy
 - 🌱 Passionate about Data Science, Machine Learning, Big Data Analysis and AI
 - 📄 Take a look for my [cv](https://github.com/ihendawi/My-Resume/blob/main/Ibrahim's%20Resume.pdf)
 
-- 💼 My Portfolio [link]()
+- 💼 My Portfolio [link](https://ihendawi.github.io/Potfolio/)
 
 ## Connect with Me 
 
@@ -34,32 +34,19 @@ Developer with a huge interest in Data Science, Machine Learning, Big Data Analy
 
 ### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,bash,mysql,html,css,latex,md" alt="Languages" />
 </p>
 
 ### Technologies & Frameworks
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Transformers" height="37" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,flutter,azure,linux,github,git,docker" alt="Frameworks" />
 </p>
 
 ### Developer Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
 ## Core Concepts & Expertise
@@ -80,15 +67,25 @@ Developer with a huge interest in Data Science, Machine Learning, Big Data Analy
 ## GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihendawi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihendawi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320" alt="Top Languages" />  
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihendawi&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihendawi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihendawi" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihendawi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihendawi&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihendawi&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
