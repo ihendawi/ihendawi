@@ -10,7 +10,7 @@ Developer with a huge interest in Data Science, Machine Learning, Big Data Analy
 - 🌱 Passionate about Data Science, Machine Learning, Big Data Analysis and AI
 - 📄 Take a look for my [cv](https://github.com/ihendawi/My-Resume/blob/main/Ibrahim's%20Resume.pdf)
 
-- 💼 My Portfolio [link](https://ihendawi.github.io/Potfolio/)
+- 💼 My Portfolio [link](https://ihendawi.github.io/Portfolio/)
 
 ## Connect with Me 
 
