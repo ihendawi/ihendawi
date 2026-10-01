@@ -5,7 +5,7 @@
 Developer with a huge interest in Data Science, Machine Learning, Big Data Analysis and AI. Currently pursuing a Bachelor's degree in Artificial Intelligence at Kafrelsheikh University, with hands-on experience in computer vision, machine learning, and cloud technologies.
 
 ## About Me 
-- 🎓 Studying Artificial Intelligence @ Kafrelsheikh University (KSU) (2021 - present)
+- 🎓 B.Sc. in Artificial Intelligence @ Kafrelsheikh University (KSU) (2021 - 2025)
 - 💼 Former Cyber Security Intern @ TelecomEgypt (July 2024 - August 2024)
 - 🌱 Passionate about Data Science, Machine Learning, Big Data Analysis and AI
 - 📄 Take a look for my [cv](https://github.com/ihendawi/My-Resume/blob/main/Ibrahim's%20Resume.pdf)
